@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data-Analytics
 
 I have worked on the projects here apart from my work to show my story of working.
 
